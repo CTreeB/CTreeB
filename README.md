@@ -4,8 +4,6 @@
 </em></p>
 
 
-[![GitHub Finn](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -14,7 +12,6 @@ const Finn = {
   pronouns: "He" | "he",
   code: [Javascript, c/c++, HTML, CSS, Python,],
   tools: [Node, Open cv, Ros],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   MY challenge: {
                         1. Serving Robot",
                         2. Bug Detector",
